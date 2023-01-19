@@ -151,7 +151,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			color: #0ED145 !important;
 		}
 
 	strong, b {
@@ -164,13 +164,14 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: Arial, Helvetica, sans-serif;
 	}
 
 	h1 {
-		font-size: 3.75em;
+		font-size: 3.80em;
 		font-weight: 700;
 		line-height: 1.2;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 		letter-spacing: -0.035em;
 	}
 
@@ -195,9 +196,10 @@ input, select, textarea {
 
 		}
 
+		H2
 	h2, h3, h4, h5, h6 {
 		font-weight: 900;
-		line-height: 1.5;
+		line-height: .2;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
 		letter-spacing: 0.35em;
@@ -208,7 +210,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.1em;
+		font-size: 1.7em;
 	}
 
 	h3 {
