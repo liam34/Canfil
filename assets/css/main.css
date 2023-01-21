@@ -72,6 +72,21 @@ input, select, textarea {
 	appearance: none;
 }
 
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.indent {
+    margin-left: 85px;
+	font-family: Brush Script Std, cursive;
+	padding-top: .1em;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
