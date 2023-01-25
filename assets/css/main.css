@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-html, body, div, span, applet, object,
+html, body, div, span, applet, object, indent, 
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -81,9 +81,9 @@ input, select, textarea {
 }
 
 .indent {
-    margin-left: 85px;
+    margin-left: 95px;
 	font-family: Brush Script Std, cursive;
-	padding-top: .1em;
+	
 }
 
 
@@ -2847,7 +2847,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 0 0.1em 0 ;
+		padding: 2em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2880,7 +2880,7 @@ input, select, textarea {
 		#header nav {
 			position: fixed;
 			right: 2em;
-			top: 2em;
+			top: 3em;
 			z-index: 10000;
 		}
 
