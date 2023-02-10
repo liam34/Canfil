@@ -75,10 +75,9 @@ input, select, textarea {
     text-align: right;
 }
 
-.indent {
-    margin-left: 100px;
-	font-family: Brush Script Std, cursive;
-	
+.details {
+    margin-left: 110px;
+	font-family: Brush Script Std, cursive;	
 }
 
 
