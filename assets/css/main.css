@@ -75,7 +75,7 @@ input, select, textarea {
     text-align: right;
 }
 
-.details span {
+.details {
     margin-left: 110px;
 	font-family: Brush Script Std, cursive;	
 }
