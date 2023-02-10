@@ -77,7 +77,7 @@ input, select, textarea {
 	font-family: Brush Script Std, cursive;
 }
 
-span.indent {
+.indent {
     margin-left: 110px;
 	font-family: Brush Script Std, cursive;	
 }
