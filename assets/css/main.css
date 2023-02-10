@@ -73,11 +73,11 @@ input, select, textarea {
 
 .right {
     text-align: right;
-	margin-left: 150em;
+	margin-left: 150px;
 	font-family: Brush Script Std, cursive;
 }
 
-#span.details {
+span.details {
     margin-left: 110px;
 	font-family: Brush Script Std, cursive;	
 }
