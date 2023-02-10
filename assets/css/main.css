@@ -77,8 +77,8 @@ input, select, textarea {
 	font-family: Brush Script Std, cursive;
 }
 
-.details {
-    margin-left: 150px;
+#span.details {
+    margin-left: 110px;
 	font-family: Brush Script Std, cursive;	
 }
 
