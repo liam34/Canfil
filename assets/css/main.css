@@ -72,14 +72,17 @@ input, select, textarea {
 }
 
 .right {
+	margin-left: 130px;
     text-align: right;
-	margin-left: 150px;
-	font-family: Brush Script Std, cursive;
 }
 
 .indent {
     margin-left: 110px;
 	font-family: Brush Script Std, cursive;	
+}
+
+.moto span {
+	margin-left: 110px;
 }
 
 
