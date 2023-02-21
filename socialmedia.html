@@ -73,12 +73,17 @@
 										</div>
 										<div class="field">
 											<textarea name="message" id="message" placeholder="Message"></textarea>
+											<input type="hidden" name="honeypot" style="display:none">
+											<input type="hidden" name="time" value="<?php echo time(); ?>">
+											<div class="g-recaptcha" data-sitekey="your_site_key"></div>
 										</div>
 									</div>
 									<ul class="actions">
 										<li><input type="submit" value="Send" class="primary" /></li>
 									</ul>
 								</form>
+
+								
 							</section>
 							<section>
 								<h2>Follow</h2>
